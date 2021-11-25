@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=WeZ-J6VnXnI
 
 
 [![](https://img.youtube.com/vi/WeZ-J6VnXnI/0.jpg)](https://www.youtube.com/watch?v=WeZ-J6VnXnI)
+
+# The article I looked into
+
+https://www.instructables.com/Use-a-Stepper-Motor-As-a-Rotary-Encoder/
